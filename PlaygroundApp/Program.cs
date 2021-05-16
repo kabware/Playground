@@ -1,5 +1,6 @@
 ﻿using System;
 
+// Force sonarCloud action
 namespace PlaygroundApp
 {
     class Program
